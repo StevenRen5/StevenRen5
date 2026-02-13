@@ -21,5 +21,5 @@ I'm currently on a front-end development path through Scrimba, where I'm activel
 - **Job Deadline Application Tracker** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
 
 ## 🤝 Let’s Connect
-- LinkedIn: [https://www.linkedin.com/in/stevenr395/]
-- Portfolio: [https://rensteven-portfolio.vercel.app/]
+- (LinkedIn)[https://www.linkedin.com/in/stevenr395/]
+- (Portfolio)[https://rensteven-portfolio.vercel.app/]
