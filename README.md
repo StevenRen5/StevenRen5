@@ -15,11 +15,11 @@ I'm currently on a front-end development path through Scrimba, where I'm activel
 **Frameworks & Tools:** React, Git/GitHub, Vercel, VS Code  
 
 ## 📌 What I’m Working On
-- Building a React-based automation tool to streamline participant pair-matching workflows used by the Vice President of a student organization
+- Building a React-based automation tool to streamline participant pair-matching workflows used by the Vice President of a student organization 
 
 ## Projects
-- **Job Deadline Application Tracker** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
+- **[Job Deadline Application Tracker](https://github.com/StevenRen5/google-sheets-calendar-sync)** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
 
 ## 🤝 Let’s Connect
-- (LinkedIn)[https://www.linkedin.com/in/stevenr395/]
-- (Portfolio)[https://rensteven-portfolio.vercel.app/]
+- [LinkedIn](https://www.linkedin.com/in/stevenr395/)
+- [Portfolio](https://rensteven-portfolio.vercel.app/)
