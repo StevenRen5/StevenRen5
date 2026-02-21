@@ -17,7 +17,7 @@ I'm currently on a front-end development path through Scrimba, where I'm activel
 ## 📌 What I’m Working On
 - Building a React-based automation tool to streamline participant pair-matching workflows used by the Vice President of a student organization 
 
-## Projects
+## 🥇 Projects
 - **[Job Deadline Application Tracker](https://github.com/StevenRen5/google-sheets-calendar-sync)** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
 
 ## 🤝 Let’s Connect
