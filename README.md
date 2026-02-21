@@ -11,8 +11,8 @@ I'm currently on a front-end development path through Scrimba, where I'm activel
 - 🧠 Applying what I learn through real projects and leadership roles
 
 ## 🛠 Tech Skills
-**Languages:** JavaScript, HTML, CSS, Python, C++
-**Frameworks & Tools:** React, Git/GitHub, Vercel, VS Code  
+- **Languages:** JavaScript, HTML, CSS, Python, C++
+- **Frameworks & Tools:** React, Git/GitHub, Vercel, VS Code  
 
 ## 📌 What I’m Working On
 - Building a React-based automation tool to streamline participant pair-matching workflows used by the Vice President of a student organization 
