@@ -19,6 +19,7 @@ I'm currently on a front-end development path through Scrimba, where I'm activel
 
 ## 🥇 Projects
 - **[Job Deadline Application Tracker](https://github.com/StevenRen5/google-sheets-calendar-sync)** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
+- **[Conversation Partner Matching Program](https://github.com/StevenRen5/projects/tree/main/cpp-matcher)** - Built a conversation partner matching program for my student organization.
 
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/stevenr395/)
