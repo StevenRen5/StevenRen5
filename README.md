@@ -5,6 +5,7 @@ I'm a Computer Science student with a strong interest in front-end development. 
 ## 👨🏼‍🎓 About Me
 - 🎓 CS Major at Baruch College (CUNY)
 - 💼 UI/UX & Web Design Intern at Conatix
+- 🧑‍💻 CodePath student working on technical interview prep with documented work [here](https://github.com/StevenRen5/CodePath)
 - 🧑‍💻 Frontend learner at [Scrimba](https://scrimba.com/@StevenRen5)
 - 🧐 Interest in emerging technologies like AI 
 - 🧠 Building projects to strengthen front-end understanding
