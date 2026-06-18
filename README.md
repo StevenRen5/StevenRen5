@@ -5,6 +5,7 @@ I'm a Computer Science student with a strong interest in front-end development. 
 ## 👨🏼‍🎓 About Me
 - 🎓 CS Major at Baruch College (CUNY)
 - 💼 UI/UX & Web Design Intern at Conatix
+- 🧑‍💻 Frontend learner at [Scrimba](https://scrimba.com/@StevenRen5)
 - 🧐 Interest in emerging technologies like AI 
 - 🧠 Building projects to strengthen front-end understanding
 
@@ -13,9 +14,10 @@ I'm a Computer Science student with a strong interest in front-end development. 
 - **Tools:** Git/GitHub, VS Code, Vercel  
 
 ## 📌 What I’m Working On
-- Rebuilding my [portfolio](https://rensteven-portfolio.vercel.app/) from plain JavaScript, HTML, CSS with React, TypeScript, and Next.js
+- Building a club portal (CPP Portal) for my student organization members to submit and manage their timesheets.
 
 ## 🥇 Projects
+- **[Portfolio Website Redesign](https://rensteven-portfolio.vercel.app/)** - Rebuilt my personal portfolio website using a modern frontend tech stack maintainability and scalability.
 - **[Conversation Partner Matching Program](https://github.com/StevenRen5/projects/tree/main/cpp-matcher)** - Built a conversation partner matching program for my student organization.
 - **[Job Deadline Application Tracker](https://github.com/StevenRen5/google-sheets-calendar-sync)** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
 
