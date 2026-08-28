@@ -4,9 +4,9 @@ I'm a Computer Science student with a strong interest in front-end development. 
 
 ## 👨🏼‍🎓 About Me
 - 🎓 CS Major at Baruch College (CUNY)
-- 💼 UI/UX & Web Design Intern at Conatix
-- 🧑‍💻 CodePath student working on technical interview prep with documented work [here](https://github.com/StevenRen5/CodePath)
-- 🧑‍💻 Frontend learner at [Scrimba](https://scrimba.com/@StevenRen5)
+- 💻 Full Stack Web Development Fellow at CUNY Tech Prep
+- 💼 Former Web Developer Intern at Conatix (Summer 2026)
+- 🧑‍💻 Technical interview prep student at CodePath with documented work [here](https://github.com/StevenRen5/CodePath)
 - 🧐 Interest in emerging technologies like AI 
 - 🧠 Building projects to strengthen front-end understanding
 
@@ -20,7 +20,6 @@ I'm a Computer Science student with a strong interest in front-end development. 
 ## 🥇 Projects
 - **[Portfolio Website Redesign](https://rensteven-portfolio.vercel.app/)** - Rebuilt my personal portfolio website using a modern frontend tech stack maintainability and scalability.
 - **[Conversation Partner Matching Program](https://github.com/StevenRen5/projects/tree/main/cpp-matcher)** - Built a conversation partner matching program for my student organization.
-- **[Job Deadline Application Tracker](https://github.com/StevenRen5/google-sheets-calendar-sync)** - Buil a Google Apps Script to automatically sync job application deadlines from Google Sheets to Google Calendar.
 
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/stevenr395/)
