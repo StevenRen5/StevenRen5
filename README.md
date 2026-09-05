@@ -18,8 +18,8 @@ I'm a Computer Science student with a strong interest in front-end development. 
 - Building a club portal (CPP Portal) for my student organization members to submit and manage their timesheets.
 
 ## 🥇 Projects
-- **[Portfolio Website Redesign](https://rensteven-portfolio.vercel.app/)** - Rebuilt my personal portfolio website using a modern frontend tech stack maintainability and scalability.
-- **[Conversation Partner Matching Program](https://github.com/StevenRen5/projects/tree/main/cpp-matcher)** - Built a conversation partner matching program for my student organization.
+- **[Portfolio Website Redesign](https://github.com/StevenRen5/portfolio-website)** - Rebuilt my personal portfolio website using a modern frontend tech stack maintainability and scalability.
+- **[Conversation Partner Matching Program](https://github.com/StevenRen5/conversation-partners-matcher)** - Built a conversation partner matching program for my student organization.
 
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/stevenr395/)
